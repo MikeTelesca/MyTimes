@@ -147,7 +147,7 @@ resources/images/mg-story-3.png);
 }
 
 .cat-ceo.image-content {
-  background-image: url(resources/images/img-story-1.png);
+  background-image: image(resources/images/img-story-1.png);
 }
 
 /* Third News Column */
